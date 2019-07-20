@@ -40,13 +40,13 @@
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
                         <ul class="nav navbar-nav">
-                            <li class="active"><a href="<?php echo base_url();?>assets/#intro">Home</a></li>
-                            <li><a href="<?php echo base_url();?>assets/#Enquiry">Enquiry</a></li>
-                            <li><a href="<?php echo base_url();?>assets/#about">About</a></li>
-                            <li><a href="<?php echo base_url();?>assets/#ayurveda">Sex & Ayurveda</a></li>
-                            <li><a href="<?php echo base_url();?>assets/#doctor">Diseases</a></li>
-                            <li><a href="<?php echo base_url();?>assets/#awards">Ayurveda & Infertility</a></li>
-                            <li><a href="<?php echo base_url();?>assets/#facilities">Gallery</a></li>
+                            <li class="active"><a href="<?php echo base_url();?>">Home</a></li>
+                            <li><a href="<?php echo base_url();?>welcome/enquiry">Enquiry</a></li>
+                            <li><a href="<?php echo base_url();?>welcome/about">About</a></li>
+                            <li><a href="<?php echo base_url();?>welcome/sex_ayurveda">Sex & Ayurveda</a></li>
+                            <li><a href="<?php echo base_url();?>welcome/diseases">Diseases</a></li>
+                            <li><a href="<?php echo base_url();?>welcome/ayurveda_infertility">Ayurveda & Infertility</a></li>
+                            <li><a href="<?php echo base_url();?>welcome/gallery">Gallery</a></li>
                             
                         </ul>
                     </div>
