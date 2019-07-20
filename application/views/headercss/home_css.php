@@ -29,6 +29,14 @@
 	z-index: 9999;
 	background: url('<?php echo base_url();?>assets/loader.gif') center no-repeat #fff;
 }
+
+@media (min-width: 768px){
+.blockk {
+    display: block;
+    visibility: visible;
+}
+}
+
     </style>
     <script src="<?php echo base_url();?>assets/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
 <script src="<?php echo base_url();?>assets/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
